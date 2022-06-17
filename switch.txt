@@ -1,0 +1,26 @@
+// switch em Dart
+
+void main(){
+  
+  int valorEscolha = 7;
+
+  switch(valorEscolha){ //use chaves para colocar as cases
+      
+    case 0: 
+      print('ZERO');
+      break;
+    
+    case 1:
+      print('UM');
+      break;
+    
+    print('DOIS');
+      break;
+
+    default:
+      print('OUTROS');
+      
+  }
+  
+  
+}
